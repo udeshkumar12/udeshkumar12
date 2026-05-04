@@ -81,12 +81,3 @@
 
 ---
 
-### 🚀 Projects (Add Your Best Work Here)
-- 🔹 Project 1 - Short description
-- 🔹 Project 2 - Short description
-- 🔹 Project 3 - Short description
-
----
-
-### 💡 Fun Fact
-> I love building scalable web applications and learning new technologies 🚀
